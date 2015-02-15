@@ -1,0 +1,12 @@
+{
+  "name": "site-old",
+  "version": "0.0.1",
+  "author": "Michael Kelly <m@michaelckelly.com>",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "envvar": "1.0.x",
+    "express": "4.8.x"
+  }
+}
